@@ -1,0 +1,32 @@
+# Rime user dictionary
+#@/db_name	sougou
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	30
+#@/user_id	53f8df16-24bd-4171-bf21-ee7068d0bb6a
+bu que ding 	不确定	c=1 d=1 t=22
+chu li 	处理	c=1 d=1 t=18
+de 	的	c=2 d=1.956 t=26
+ding dan 	订单	c=1 d=1 t=6
+dou shi 	都是	c=1 d=1 t=20
+fan hui 	返回	c=1 d=1 t=25
+ge 	个	c=2 d=1.99005 t=15
+guo cheng 	过程	c=1 d=1 t=19
+he 	和	c=1 d=1 t=28
+jia meng 	佳梦	c=1 d=1 t=1
+kan xia 	砍下	c=1 d=1 t=8
+kong bai ye 	空白页	c=1 d=1 t=3
+mei ge 	每格	c=1 d=1 t=14
+na ge 	哪个	c=1 d=1 t=5
+ren wu 	任务	c=2 d=1.9802 t=16
+shi 	是	c=1 d=1 t=4
+shi jian 	时间	c=1 d=1 t=23
+shu ju 	数据	c=1 d=1 t=9
+shu xu guan 	鼠须管	c=2 d=1.99501 t=30
+shun xu 	顺序	c=1 d=1 t=27
+wo 	我	c=1 d=1 t=7
+xu qiu 	需求	c=1 d=1 t=10
+yao qiu 	要求	c=1 d=1 t=24
+yi bu 	异步	c=1 d=1 t=11
+yi bu de 	异步的	c=1 d=1 t=21
+zhe ge 	这个	c=1 d=1 t=2

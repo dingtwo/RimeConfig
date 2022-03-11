@@ -1,0 +1,30 @@
+patch:
+  # 自定义词库
+  'translator/dictionary': double_pinyin_flypy.sougou.dict
+  style:
+    color_scheme: cool
+  preset_color_schemes:
+    cool:
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@ \u2005" # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      font_face: "霞鹜文楷等宽 Light"
+      font_point: 16 # 候选文字大小
+      label_font_point: 14 # 候选编号大小
+      corner_radius: 5 # 候选条圆角
+      border_height: 2 # 窗口边界高度，大于圆角半径才生效
+      border_width: 5
+      border_color: '0x2F3DB4'
+      name: 'cool' # 照这个配色抄的 https://www.zcool.com.cn/work/ZMzI4Nzc4ODA=.html
+      author: 'dingjz'
+      back_color: '0xC9DEF7'
+      text_color: '0x4B423C'
+      hilited_text_color: '0x4B423C'
+      hilited_back_color: ''
+      hilited_candidate_text_color: '0xFFFFFF' # 候选项文字颜色
+      hilited_candidate_back_color: '0x3B51D1' # 候选项背景色
+      hilited_candidate_label_color: '0xFFFFFF' # 候选项序号颜色
+      hilited_comment_text_color: ''
+      candidate_text_color: '0x4B423C'
+      label_color: '0x4B423C'
+      comment_text_color: '0x4B423C'
