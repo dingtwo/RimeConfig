@@ -8,8 +8,10 @@ patch:
   'menu/page_size': 5
   schema_list:
     - schema: double_pinyin_flypy # 小鶴雙拼
-    # - schema: 〔方案選單〕 emoji_suggestion         # emoji表情
+    # - schema: flypy # 小鶴音形
+    # - schema: emoji_suggestion         # emoji表情
   switches:
     - name: simplification
       reset: 1
       states: ['漢字', '汉字']
+  translator/dictionary: sougou

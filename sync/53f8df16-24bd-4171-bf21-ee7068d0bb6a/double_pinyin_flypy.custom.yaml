@@ -56,12 +56,8 @@ patch:
   # engine/filters:
   # librime-lua 输入动态时间和日期
 
-  # engine/translators:
-  #   - lua_translator@date_translator
-  #   - lua_translator@time_translator
-
-  "engine/translators/@4": lua_translator@date_translator
-  "engine/translators/@5": lua_translator@time_translator
+  "engine/translators/+": lua_translator@date_translator
+  "engine/translators/+": lua_translator@time_translator
 
   emoji_conversion:
     opencc_config: emoji.json

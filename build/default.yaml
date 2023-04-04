@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.5
   timestamps:
-    default: 1613228859
-    default.custom: 1646726536
-    key_bindings: 1613228859
+    default: 1675621991
+    default.custom: 1668049150
+    key_bindings: 1675621991
     key_bindings.custom: 0
-    punctuation: 1613228859
+    punctuation: 1675621991
     punctuation.custom: 0
 ascii_composer:
   good_old_caps_lock: true
@@ -148,3 +148,5 @@ switches:
   - name: simplification
     reset: 1
     states: ["漢字", "汉字"]
+translator:
+  dictionary: sougou
